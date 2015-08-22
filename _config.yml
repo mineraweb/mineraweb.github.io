@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Minera Web
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: ""
   email:
   disqus-shortname:
   twitter: #username
@@ -40,7 +40,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: mineraweb
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username

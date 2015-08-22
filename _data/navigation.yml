@@ -1,10 +1,13 @@
 # Site navigation links
 
+- title: Artigos
+  url: /artigos/
+
+- title: Tutoriais
+  url: /tutoriais/
+
+- title: Download
+  url: /download/
+
 - title: Sobre
   url: /sobre/
-
-- title: Posts
-  url: /posts/
-
-- title: Banco de dados
-  url: /banco-de-dados/
