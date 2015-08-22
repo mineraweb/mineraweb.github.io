@@ -1,4 +1,0 @@
-mineraweb.github.io
-===================
-
-Site
