@@ -214,12 +214,6 @@ $(document).ready(function () {
         return false;
     }
 
-    if (content_height > (window_height - header_height)) {
-        container.height(content_height);
-    } else {
-        container.height(window_height - header_height);
-    }
-
     network.init();
 
     overlay.click(function() {
